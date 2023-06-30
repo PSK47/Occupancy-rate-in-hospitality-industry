@@ -11,7 +11,7 @@ Team Members:
 
 Prajwal Kulkarni,  
 Shreyas Chitransh,  
-Bhuwan Rathi,
+Bhuwan Rathi, 
 Subhanu Sankar Roy
 
 
