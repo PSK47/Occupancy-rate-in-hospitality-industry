@@ -3,10 +3,11 @@
 
 **Team No - 212**
 
-**Team Members:
- Prajwal Kulkarni,  
+Team Members:
+
+Prajwal Kulkarni,  
 Shreyas Chitransh,  
-Bhuwan Rathi **
+Bhuwan Rathi
 
 
 **INTRODUCTION**
