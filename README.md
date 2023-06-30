@@ -1,4 +1,8 @@
 # Occupancy-rate-in-hospitality-industry
+
+**Video Link** 
+**https://drive.google.com/file/d/1sUyPag6dcK9IRjPK2sc0VsCFL5YQ7Nru/view?usp=sharing**
+
 **Machine Learning Model for Occupancy Rates and Demand in the Hospitality Industry**
 
 **Team No - 212**
