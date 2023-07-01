@@ -10,9 +10,9 @@
 Team Members:
 
 Prajwal Kulkarni,  
-Shreyas Chitransh,  
+Shreyas Chitransh 20BIT0202,  
 Bhuwan Rathi,  
-Subhanu Sankar Roy
+Subhanu Sankar Roy 20BIT0151
 
 
 **INTRODUCTION**
