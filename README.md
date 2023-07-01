@@ -11,7 +11,7 @@ Team Members:
 
 Prajwal Kulkarni 20BCE0110,  
 Shreyas Chitransh 20BIT0202,  
-Bhuwan Rathi,  
+Bhuwan Rathi 20BCE2808,  
 Subhanu Sankar Roy 20BIT0151
 
 
